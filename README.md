@@ -1,6 +1,5 @@
 # Typography Blog
 A blog on typography.
-Playground for manipulating typography with CSS.
 
 ## Features
 * HTML
